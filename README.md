@@ -1,3 +1,3 @@
 # Radial
 
-An client exploration with angular material.
+A client exploration with angular material.
